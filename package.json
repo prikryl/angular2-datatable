@@ -1,6 +1,6 @@
 {
-  "name": "angular2-datatable",
-  "version": "2.0.0",
+  "name": "angular2-datatable-ppr",
+  "version": "2.0.1",
   "description": "DataTable component for Angular2 framework",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mariuszfoltak/angular2-datatable.git"
+    "url": "git+https://github.com/prikryl/angular2-datatable.git"
   },
   "keywords": [
     "angular",
@@ -30,9 +30,9 @@
   "author": "mariuszfoltak@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mariuszfoltak/angular2-datatable/issues"
+    "url": "https://github.com/prikryl/angular2-datatable/issues"
   },
-  "homepage": "https://github.com/mariuszfoltak/angular2-datatable#readme",
+  "homepage": "https://github.com/prikryl/angular2-datatable#readme",
   "devDependencies": {
     "@angular/common": "^6.0.0",
     "@angular/compiler": "^6.0.0",

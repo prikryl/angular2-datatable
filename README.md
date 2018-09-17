@@ -1,6 +1,7 @@
+Fork adding support RXJS6
 # Table component with sorting and pagination for Angular2
-[![npm version](https://badge.fury.io/js/angular2-datatable.svg)](https://badge.fury.io/js/angular2-datatable)
-[![Build Status](https://travis-ci.org/mariuszfoltak/angular2-datatable.svg?branch=master)](https://travis-ci.org/mariuszfoltak/angular2-datatable)
+[![npm version](https://badge.fury.io/js/angular2-datatable-ppr.svg)](https://badge.fury.io/js/angular2-datatable)
+[![Build Status](https://travis-ci.org/prikryl/angular2-datatable.svg?branch=master)](https://travis-ci.org/prikryl/angular2-datatable)
 [![Code Climate](https://codeclimate.com/github/mariuszfoltak/angular2-datatable/badges/gpa.svg)](https://codeclimate.com/github/mariuszfoltak/angular2-datatable)
 [![Test Coverage](https://codeclimate.com/github/mariuszfoltak/angular2-datatable/badges/coverage.svg)](https://codeclimate.com/github/mariuszfoltak/angular2-datatable/coverage)
 [![npm downloads](https://img.shields.io/npm/dm/angular2-datatable.svg)](https://npmjs.org/angular2-datatable)
