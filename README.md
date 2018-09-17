@@ -1,4 +1,4 @@
-Fork adding support RXJS6
+WORK IN PROGRESS Fork adding support RXJS6
 # Table component with sorting and pagination for Angular2
 [![npm version](https://badge.fury.io/js/angular2-datatable-ppr.svg)](https://badge.fury.io/js/angular2-datatable)
 [![Build Status](https://travis-ci.org/prikryl/angular2-datatable.svg?branch=master)](https://travis-ci.org/prikryl/angular2-datatable)
